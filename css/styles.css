@@ -37,10 +37,6 @@ section {
   height: 128px;
 }
 
-.menu .tile:hover {
-  background-color: #aaf;
-}
-
 .tile > p {
   padding: 0;
   width: 100%;
