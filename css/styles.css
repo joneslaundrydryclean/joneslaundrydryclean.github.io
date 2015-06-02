@@ -123,6 +123,10 @@ section {
   margin: 0;
 }
 
+a, a:hover, a:active {
+  color: #000;
+}
+
 @media (max-width: 800px) {
   .menu .tile {
     width: 100%;
