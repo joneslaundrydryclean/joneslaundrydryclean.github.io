@@ -64,11 +64,17 @@ section {
   background-position: right 20px top 10px;
   background-color: #afaff7;
 }
+.menu a:hover .tile.dryCleaning {
+  background-color: #bfbfff;
+}
 
 .menu .tile.washDryFold {
   background-image: url("../images/WashDryFold.png");
   background-position: left 20px top 10px;
   background-color: #4df0d2;
+}
+.menu a:hover .tile.washDryFold {
+  background-color: #5dffe2;
 }
 
 .menu .tile.alterations {
@@ -76,17 +82,26 @@ section {
   background-position: right 20px top 10px;
   background-color: #f25fb0;
 }
+.menu a:hover .tile.alterations {
+  background-color: #ff6fc0;
+}
 
 .menu .tile.contactUs {
   background-image: url("../images/ContactUs.png");
   background-position: left 20px top 10px;
   background-color: #ffb700;
 }
+.menu a:hover .tile.contactUs {
+  background-color: #ffc710;
+}
 
 .menu .tile.homepage {
   background-image: url("../images/Homepage.png");
   background-position: right 20px top 10px;
   background-color: #52e436;
+}
+.menu a:hover .tile.homepage {
+  background-color: #62f446;
 }
 
 .content.dryCleaning {
