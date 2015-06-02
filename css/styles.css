@@ -3,7 +3,7 @@ body {
   font-size: 16px;
   line-height: 180%;
   margin: 0 auto;
-  background-color: #eee;
+  background-color: #e6f8ea;
   position: relative;
 }
 
@@ -25,9 +25,15 @@ section {
   font-size: 1.4rem;
 }
 
+.menu {
+  background-color: #e6f8ea;
+  padding-top: 1.6em;
+}
+
 .menu .tile {
-  background-color: #99e;
-  width: 50%;
+  width: 46%;
+  padding: 10px 1%;
+  margin: 1%;
   height: 128px;
 }
 
@@ -55,31 +61,31 @@ section {
 
 .menu .tile.dryCleaning {
   background-image: url("../images/DryCleaning.png");
-  background-position: right;
+  background-position: right 20px top 10px;
   background-color: #afaff7;
 }
 
 .menu .tile.washDryFold {
   background-image: url("../images/WashDryFold.png");
-  background-position: left;
+  background-position: left 20px top 10px;
   background-color: #4df0d2;
 }
 
 .menu .tile.alterations {
   background-image: url("../images/Alterations.png");
-  background-position: right;
+  background-position: right 20px top 10px;
   background-color: #f25fb0;
 }
 
 .menu .tile.contactUs {
   background-image: url("../images/ContactUs.png");
-  background-position: left;
+  background-position: left 20px top 10px;
   background-color: #ffb700;
 }
 
 .menu .tile.homepage {
   background-image: url("../images/Homepage.png");
-  background-position: right;
+  background-position: right 20px top 10px;
   background-color: #52e436;
 }
 
