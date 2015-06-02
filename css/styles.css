@@ -4,26 +4,82 @@ body {
   line-height: 180%;
   margin: 0 auto;
   background-color: #eee;
+  position: relative;
 }
 
 section {
   clear: left;
   float: left;
   overflow: hidden;
+  width: 100%;
 }
 
 .tile {
   -webkit-transition: background-color 0.2s, -webkit-transform 0.2s;
   transition: background-color 0.2s, transform 0.2s;
   float: left;
-  padding: 0;
-  width: 100%;
+  width: 50%;
+  position: relative;
+  background-repeat: no-repeat;
+}
+
+.menu .tile {
+  background-color: #99e;
+  width: 50%;
+  height: 128px;
+}
+
+.menu .tile:hover {
+  background-color: #aaf;
 }
 
 .tile > p {
-  margin: 3em;
   padding: 0;
   width: 100%;
+  bottom: 1em;
+  font-size: 1.5rem;
+  position: absolute;
+}
+
+.imgRight > p
+{
+  left: 2em;
+}
+
+.imgLeft > p
+{
+  right: 2em;
+  text-align: right;
+}
+
+.menu .tile.dryCleaning {
+  background-image: url("../images/DryCleaning.png");
+  background-position: right;
+  background-color: #afaff7;
+}
+
+.menu .tile.washDryFold {
+  background-image: url("../images/WashDryFold.png");
+  background-position: left;
+  background-color: #4df0d2;
+}
+
+.menu .tile.alterations {
+  background-image: url("../images/Alterations.png");
+  background-position: right;
+  background-color: #f25fb0;
+}
+
+.menu .tile.contactUs {
+  background-image: url("../images/ContactUs.png");
+  background-position: left;
+  background-color: #ffb700;
+}
+
+.menu .tile.homepage {
+  background-image: url("../images/Homepage.png");
+  background-position: right;
+  background-color: #52e436;
 }
 
 .header .tile {
@@ -43,16 +99,6 @@ section {
   list-style: none;
   padding: 3em;
   margin: 0;
-}
-
-.menu .tile {
-  background: #99e;
-  width: 50%;
-  height: 100px;
-}
-
-.menu .tile:hover {
-  background: #aaf;
 }
 
 @media (max-width: 800px) {
