@@ -21,6 +21,8 @@ section {
   width: 50%;
   position: relative;
   background-repeat: no-repeat;
+  font-family: "Lato", "Lucida Sans Unicode", "Lucida Grande", Verdana, Geneva, sans-serif;
+  font-size: 1.4rem;
 }
 
 .menu .tile {
@@ -36,8 +38,7 @@ section {
 .tile > p {
   padding: 0;
   width: 100%;
-  bottom: 1em;
-  font-size: 1.5rem;
+  bottom: 0.5em;
   position: absolute;
 }
 
