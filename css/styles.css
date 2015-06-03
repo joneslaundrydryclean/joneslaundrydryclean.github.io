@@ -128,11 +128,16 @@ section {
   width: 100%;
 }
 
+.main .content {
+  padding: 3em;
+}
+/*
 .main .content ul {
   list-style: none;
   padding: 3em;
   margin: 0;
 }
+*/
 
 a, a:hover, a:active {
   color: #000;
