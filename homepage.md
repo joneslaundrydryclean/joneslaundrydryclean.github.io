@@ -5,9 +5,48 @@ style: homepage
 permalink: /
 ---
 
- * Drop off and Pick up Service:
- * Monday - Friday 9.30 am - 7.00 pm
- * Saturday 10.30 am - 6.30 pm
- * Sunday - closed
- * Coin Laundry Self-service
- * Monday - Sunday 8.00 am - 10.30 pm
+<table>
+	<tr>
+		<td>
+		</td>
+		<td>
+		Drop off and Pick up Service:
+		</td>
+		<td>
+		Coin Laundry Self-service
+		</td>
+	</tr>
+	<tr>
+		<td>
+		Monday - Friday
+		</td>
+		<td>
+		9.30 am - 7.00 pm
+		</td>
+		<td>
+		8.00 am - 10.30 pm
+		</td>
+	</tr>
+	<tr>
+		<td>
+		Saturday
+		</td>
+		<td>
+		10.30 am - 6.30 pm
+		</td>
+		<td>
+		8.00 am - 10.30 pm
+		</td>
+	</tr>
+	<tr>
+		<td>
+		Sunday
+		</td>
+		<td>
+		closed
+		</td>
+		<td>
+		8.00 am - 10.30 pm
+		</td>
+	</tr>
+</table>
