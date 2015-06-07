@@ -93,25 +93,37 @@ section {
   background-color: #fbf9af;
 }
 
-.content {
-  background-position: right 20px top 20px;
-  background-size: 50px 50px;
+.content h1:before {
   background-repeat: no-repeat;
+  background-size: 28px 28px;
+  width: 28px;
+  height: 28px;
+  display: inline-block;
+  content: "\00a0";
+  padding-right: 5px;
 }
 .content.dryCleaning {
   background-color: #d2d2f7;
+}
+.content.dryCleaning h1:before {
   background-image: url("../images/DryCleaning.png");
 }
 .content.washDryFold {
   background-color: #95f0df;
+}
+.content.washDryFold h1:before {
   background-image: url("../images/WashDryFold.png");
 }
 .content.alterations {
   background-color: #f8ace6;
+}
+.content.alterations h1:before {
   background-image: url("../images/Alterations.png");
 }
 .content.contactUs {
   background-color: #ffda7d;
+}
+.content.contactUs h1:before {
   background-image: url("../images/ContactUs.png");
 }
 .content.homepage {
