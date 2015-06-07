@@ -6,11 +6,11 @@ permalink: /
 ---
 
 <table>
-	<tr>
+	<tr class="bold">
 		<td>
 		</td>
 		<td>
-		Drop off and Pick up Service:
+		Drop off and Pick up Service
 		</td>
 		<td>
 		Coin Laundry Self-service
@@ -18,7 +18,7 @@ permalink: /
 	</tr>
 	<tr>
 		<td>
-		Monday - Friday
+		Weekdays
 		</td>
 		<td>
 		9.30 am - 7.00 pm
