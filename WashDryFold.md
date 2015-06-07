@@ -5,7 +5,7 @@ style: washDryFold
 permalink: /WashDryFold/
 ---
 
-Wash Dry Fold
+Wash - Dry - Fold
 ===
 
 Laundry is always boring for everybody. After working hard for the whole week, you have to spend 3 to 5 hours during each weekend to wash, dry and fold - while you ought to relax. And sometimes, you will feel more tired doing laundry than you would working.
