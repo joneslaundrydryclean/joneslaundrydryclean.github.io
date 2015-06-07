@@ -95,10 +95,10 @@ section {
 .menu .tile.homepage {
   background-image: url("../images/Homepage.png");
   background-position: right 20px top 10px;
-  background-color: #52e436;
+  background-color: #fbe99f;
 }
 .menu a:hover .tile.homepage {
-  background-color: #62f446;
+  background-color: #fbf9af;
 }
 
 .content.dryCleaning {
