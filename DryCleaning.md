@@ -5,6 +5,9 @@ style: dryCleaning
 permalink: /DryCleaning/
 ---
 
+Dry Cleaning
+===
+
 You can find dry cleaners that are comparable to ours, but our prices are the best in Toronto.
 
 If you cannot clean a stain on your clothes in other cleaners, you are welcome to come here to get it clean, whether it be grease or coffee.

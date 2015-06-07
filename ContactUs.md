@@ -5,6 +5,9 @@ style: contactUs
 permalink: /Contact/
 ---
 
+Contact Us
+===
+
 416 466 5358
 
 **487 Jones Avenue**, Toronto

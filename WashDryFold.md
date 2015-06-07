@@ -5,6 +5,9 @@ style: washDryFold
 permalink: /WashDryFold/
 ---
 
+Wash Dry Fold
+===
+
 Laundry is always boring for everybody. After working hard for the whole week, you have to spend 3 to 5 hours during each weekend to wash, dry and fold - while you ought to relax. And sometimes, you will feel more tired doing laundry than you would working.
 
 If you own a business, you would have to buy a detergent, softener, bleach and other necessities. Furthermore, you would have to pay not only the water, gas, power bills, but also the labor cost.

@@ -5,6 +5,9 @@ style: alterations
 permalink: /alterations/
 ---
 
+Alterations
+===
+
 It is difficult to find a pair of pants suitable for you.
 
 But don't worry; we have an excellent tailor and all the necessary equipment for all your alteration needs.

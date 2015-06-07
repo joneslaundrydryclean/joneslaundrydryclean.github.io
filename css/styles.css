@@ -103,7 +103,8 @@ section {
 }
 
 .content {
-  background-position: right 10px top 10px;
+  background-position: right 20px top 20px;
+  background-size: 50px 50px;
   background-repeat: no-repeat;
 }
 .content.dryCleaning {
