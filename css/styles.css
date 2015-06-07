@@ -33,9 +33,10 @@ section {
 
 .menu .tile {
   width: 46%;
-  padding: 10px 1px;
+  padding: 10px 1%;
   margin: 1%;
   height: 100px;
+  border-radius: 5px;
 }
 
 .tile > p {
