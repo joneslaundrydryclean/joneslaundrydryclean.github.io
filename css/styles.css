@@ -100,7 +100,7 @@ section {
   height: 28px;
   display: inline-block;
   content: "\00a0";
-  padding-right: 5px;
+  padding-right: 0.6em;
 }
 .content.dryCleaning {
   background-color: #d2d2f7;
