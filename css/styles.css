@@ -160,13 +160,12 @@ td {
   padding: 0 1.4em;
 }
 
-/*
-.main .content ul {
-  list-style: none;
-  padding: 3em;
-  margin: 0;
+.wide {
+  display: block;
 }
-*/
+.narrow {
+  display: none;
+}
 
 a, a:hover, a:active {
   color: #000;
@@ -190,6 +189,18 @@ a, a:hover, a:active {
     font-size: 1em;
     margin: 0.3em 0 0 0;
   }
+
+  .wide {
+    display: none;
+  }
+  .narrow {
+    display: block;
+  }
+
+  .main .content {
+    padding: 2em;
+  }
+
 }
 
 @media (max-width: 400px) {
@@ -201,6 +212,10 @@ a, a:hover, a:active {
   .menu .tile {
     height: 60px;
     background-size: 60px 60px;
+  }
+
+  .main .content {
+    padding: 1em;
   }
 }
 
