@@ -3,7 +3,7 @@ body {
   font-size: 16px;
   line-height: 180%;
   margin: 0 auto;
-  background-color: #e6f8ea;
+  background-color: #fff5cf;
   position: relative;
   font-family: Verdana, Geneva, sans-serif;
 }
@@ -27,7 +27,7 @@ section {
 }
 
 .menu {
-  background-color: #e6f8ea;
+  background-color: #fff5cf;
   padding-top: 0.4em;
 }
 
@@ -102,37 +102,53 @@ section {
   background-color: #fbf9af;
 }
 
+.content {
+  background-position: right 10px top 10px;
+  background-repeat: no-repeat;
+}
 .content.dryCleaning {
   background-color: #d2d2f7;
+  background-image: url("../images/DryCleaning.png");
 }
 .content.washDryFold {
   background-color: #95f0df;
+  background-image: url("../images/WashDryFold.png");
 }
 .content.alterations {
   background-color: #f8ace6;
+  background-image: url("../images/Alterations.png");
 }
 .content.contactUs {
   background-color: #ffda7d;
+  background-image: url("../images/ContactUs.png");
 }
 .content.homepage {
-  background-color: #a6e59a;
+  background-color: #ffffe7;
 }
 
 .header .tile {
   background: #fbe99f;
-  height: 150px;
+  height: 140px;
   width: 100%;
-  padding: 1rem 2rem 0 2rem;
   letter-spacing: 1px;
+  background-image: url("../images/Homepage.png");
+  background-repeat: no-repeat;
+  background-position: left 20px top 20px;
 }
 
-.main .content {
-  width: 100%;
+.header .tile div {
+  margin-left: 130px;
+  padding: 0.2rem 2rem 0 2rem;
 }
 
 .main .content {
   padding: 3em;
 }
+
+.bold {
+  font-weight: bold;
+}
+
 /*
 .main .content ul {
   list-style: none;
@@ -152,5 +168,5 @@ a, a:hover, a:active {
 }
 
 ::selection {
-  background-color: #f8f8ca;
+  background-color: #fff;
 };
