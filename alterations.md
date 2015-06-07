@@ -2,7 +2,7 @@
 layout: page
 title: Alterations - Jones Laundry &amp; Dry Cleaners
 style: alterations
-permalink: /alterations/
+permalink: /Alterations/
 ---
 
 Alterations
