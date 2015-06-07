@@ -10,10 +10,10 @@ permalink: /
 		<td>
 		</td>
 		<td>
-		Drop off and Pick up Service
+		Drop off and Pick up
 		</td>
 		<td>
-		Coin Laundry Self-service
+		Coin Laundry
 		</td>
 	</tr>
 	<tr>
