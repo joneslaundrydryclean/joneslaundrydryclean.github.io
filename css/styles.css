@@ -156,6 +156,10 @@ section {
   font-weight: bold;
 }
 
+td {
+  padding: 0 1.4em;
+}
+
 /*
 .main .content ul {
   list-style: none;
