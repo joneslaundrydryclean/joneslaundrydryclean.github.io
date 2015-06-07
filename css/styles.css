@@ -201,6 +201,9 @@ a, a:hover, a:active {
     padding: 2em;
   }
 
+  iframe {
+    width: 380px;
+  }
 }
 
 @media (max-width: 400px) {
@@ -216,6 +219,10 @@ a, a:hover, a:active {
 
   .main .content {
     padding: 1em;
+  }
+
+  iframe {
+    width: 220px;
   }
 }
 
