@@ -13,7 +13,7 @@ You can find dry cleaners that are comparable to ours, but our prices are the be
 If you cannot clean a stain on your clothes in other cleaners, you are welcome to come here to get it clean, whether it be grease or coffee.
 
 If your clothes require repairing, stitching, or fixing buttons, coming here is the best choice.
-Also, if you have a bulk of dry cleaning, [we can pick up and deliver](WashDryFold) for you!
+Also, if you have a bulk of dry cleaning, [we can pick up and deliver]({{ site.baseurl }}WashDryFold) for you!
 
 <table>
 	<tr>
