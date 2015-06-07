@@ -139,6 +139,9 @@ section {
   background-repeat: no-repeat;
   background-position: left 20px top 20px;
 }
+.header a:hover .tile {
+  background-color: #fbf9af;
+}
 
 .header .tile div {
   margin-left: 130px;
