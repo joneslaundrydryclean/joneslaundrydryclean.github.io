@@ -44,22 +44,13 @@ section {
   width: 100%;
   bottom: 0.5em;
   position: absolute;
-}
-
-.imgRight > p
-{
-  left: 2em;
-}
-
-.imgLeft > p
-{
   right: 2em;
   text-align: right;
 }
 
 .menu .tile.dryCleaning {
   background-image: url("../images/DryCleaning.png");
-  background-position: right 20px top 10px;
+  background-position: left 20px top 10px;
   background-color: #afaff7;
 }
 .menu a:hover .tile.dryCleaning {
@@ -77,7 +68,7 @@ section {
 
 .menu .tile.alterations {
   background-image: url("../images/Alterations.png");
-  background-position: right 20px top 10px;
+  background-position: left 20px top 10px;
   background-color: #f25fb0;
 }
 .menu a:hover .tile.alterations {
@@ -95,7 +86,7 @@ section {
 
 .menu .tile.homepage {
   background-image: url("../images/Homepage.png");
-  background-position: right 20px top 10px;
+  background-position: left 20px top 10px;
   background-color: #fbe99f;
 }
 .menu a:hover .tile.homepage {
