@@ -1,1 +1,1 @@
-# [Jones Laundry and Dry Cleaners](joneslaundrydryclean.github.io)
+# [Jones Laundry and Dry Cleaners](http://joneslaundrydryclean.github.io/)
