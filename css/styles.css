@@ -3,8 +3,9 @@ body {
   font-size: 16px;
   line-height: 180%;
   margin: 0 auto;
-  background-color: #e6f8ea;
+  background-color: #fff5cf;
   position: relative;
+  font-family: Verdana, Geneva, sans-serif;
 }
 
 section {
@@ -26,7 +27,7 @@ section {
 }
 
 .menu {
-  background-color: #e6f8ea;
+  background-color: #fff5cf;
   padding-top: 0.4em;
 }
 
@@ -34,7 +35,8 @@ section {
   width: 46%;
   padding: 10px 1%;
   margin: 1%;
-  height: 128px;
+  height: 100px;
+  border-radius: 5px;
 }
 
 .tile > p {
@@ -42,22 +44,13 @@ section {
   width: 100%;
   bottom: 0.5em;
   position: absolute;
-}
-
-.imgRight > p
-{
-  left: 2em;
-}
-
-.imgLeft > p
-{
   right: 2em;
   text-align: right;
 }
 
 .menu .tile.dryCleaning {
   background-image: url("../images/DryCleaning.png");
-  background-position: right 20px top 10px;
+  background-position: left 20px top 10px;
   background-color: #afaff7;
 }
 .menu a:hover .tile.dryCleaning {
@@ -75,7 +68,7 @@ section {
 
 .menu .tile.alterations {
   background-image: url("../images/Alterations.png");
-  background-position: right 20px top 10px;
+  background-position: left 20px top 10px;
   background-color: #f25fb0;
 }
 .menu a:hover .tile.alterations {
@@ -93,57 +86,159 @@ section {
 
 .menu .tile.homepage {
   background-image: url("../images/Homepage.png");
-  background-position: right 20px top 10px;
-  background-color: #52e436;
+  background-position: left 20px top 10px;
+  background-color: #fbe99f;
 }
 .menu a:hover .tile.homepage {
-  background-color: #62f446;
+  background-color: #fbf9af;
 }
 
+.content h1:before {
+  background-repeat: no-repeat;
+  background-size: 28px 28px;
+  width: 28px;
+  height: 28px;
+  display: inline-block;
+  content: "\00a0";
+  padding-right: 0.6em;
+}
 .content.dryCleaning {
   background-color: #d2d2f7;
+}
+.content.dryCleaning h1:before {
+  background-image: url("../images/DryCleaning.png");
 }
 .content.washDryFold {
   background-color: #95f0df;
 }
+.content.washDryFold h1:before {
+  background-image: url("../images/WashDryFold.png");
+}
 .content.alterations {
   background-color: #f8ace6;
+}
+.content.alterations h1:before {
+  background-image: url("../images/Alterations.png");
 }
 .content.contactUs {
   background-color: #ffda7d;
 }
+.content.contactUs h1:before {
+  background-image: url("../images/ContactUs.png");
+}
 .content.homepage {
-  background-color: #a6e59a;
+  background-color: #ffffe7;
 }
 
 .header .tile {
   background: #fbe99f;
-  height: 150px;
+  min-height: 140px;
   width: 100%;
-  padding: 1rem 2rem 0 2rem;
   letter-spacing: 1px;
+  background-image: url("../images/Homepage.png");
+  background-repeat: no-repeat;
+  background-position: left 20px top 20px;
+}
+.header a:hover .tile {
+  background-color: #fbf9af;
+}
+
+.header .tile div {
+  margin-left: 130px;
+  padding: 0.2rem 2rem 0 2rem;
 }
 
 .main .content {
-  width: 100%;
+  padding: 3em;
 }
 
-.main .content ul {
-  list-style: none;
-  padding: 3em;
-  margin: 0;
+.bold {
+  font-weight: bold;
+}
+
+td {
+  padding: 0 1.4em;
+}
+
+.wide {
+  display: block;
+}
+.narrow {
+  display: none;
 }
 
 a, a:hover, a:active {
   color: #000;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 700px) {
   .menu .tile {
-    width: 100%;
+    width: 96%;
+  }
+
+  .header .tile div {
+    padding: 0.2rem 1rem 0 1rem;
+  }
+
+  .header .tile h2 {
+    font-size: 1.2em;
+    margin: 1em 0 0 0;
+  }
+
+  .header .tile h4 {
+    font-size: 1em;
+    margin: 0.3em 0 0 0;
+  }
+
+  .wide {
+    display: none;
+  }
+  .narrow {
+    display: block;
+  }
+
+  .main .content {
+    padding: 2em;
+  }
+
+  iframe {
+    width: 380px;
   }
 }
 
+@media (max-width: 400px) {
+  .tile > p {
+    right: 1em;
+    font-size: 1rem;
+  }
+
+  .menu .tile {
+    height: 60px;
+    background-size: 60px 60px;
+  }
+
+  .main .content {
+    padding: 1em;
+  }
+
+  iframe {
+    width: 220px;
+  }
+}
+
+@media (max-width: 240px) {
+  .menu .tile {
+    background-image: none !important;
+  }
+
+  .tile > p {
+    width: 100%;
+    position: static;
+    text-align: center;
+  }
+}
+
+
 ::selection {
-  background-color: #f8f8ca;
+  background-color: #fff;
 };

@@ -2,8 +2,11 @@
 layout: page
 title: Alterations - Jones Laundry &amp; Dry Cleaners
 style: alterations
-permalink: /alterations/
+permalink: /Alterations/
 ---
+
+Alterations
+===
 
 It is difficult to find a pair of pants suitable for you.
 
