@@ -13,7 +13,7 @@ permalink: /
 		Drop off and Pick up
 		</td>
 		<td>
-		Coin Laundry
+		Coin Laundry :)
 		</td>
 	</tr>
 	<tr>
