@@ -24,7 +24,7 @@ Also, if you have a bulk of dry cleaning, [we can pick up and deliver]({{ site.b
 		
 		</td>
 		<td>
-		$1.49
+		$1.80
 		</td>
 	</tr>
 	<tr>
@@ -35,7 +35,7 @@ Also, if you have a bulk of dry cleaning, [we can pick up and deliver]({{ site.b
 		3pc
 		</td>
 		<td>
-		$8.19
+		$9.50 <em>special</em>
 		</td>
 	</tr>
 	<tr>
@@ -46,7 +46,7 @@ Also, if you have a bulk of dry cleaning, [we can pick up and deliver]({{ site.b
 		2pc
 		</td>
 		<td>
-		$6.50
+		$7.50 <em>special</em>
 		</td>
 	</tr>
 	<tr>
@@ -57,7 +57,7 @@ Also, if you have a bulk of dry cleaning, [we can pick up and deliver]({{ site.b
 		1pc
 		</td>
 		<td>
-		$3.50
+		$4.00 <em>special</em>
 		</td>
 	</tr>
 	<tr>
@@ -68,7 +68,7 @@ Also, if you have a bulk of dry cleaning, [we can pick up and deliver]({{ site.b
 		2pc
 		</td>
 		<td>
-		$8.19
+		$9.00 <em>special</em>
 		</td>
 	</tr>
 	<tr>
@@ -79,7 +79,7 @@ Also, if you have a bulk of dry cleaning, [we can pick up and deliver]({{ site.b
 		3pc
 		</td>
 		<td>
-		$9.50
+		$12.00
 		</td>
 	</tr>
 	<tr>
@@ -90,7 +90,7 @@ Also, if you have a bulk of dry cleaning, [we can pick up and deliver]({{ site.b
 		
 		</td>
 		<td>
-		$5.99
+		$6.50 - $7.00
 		</td>
 	</tr>
 	<tr>
@@ -101,7 +101,7 @@ Also, if you have a bulk of dry cleaning, [we can pick up and deliver]({{ site.b
 		regular
 		</td>
 		<td>
-		$9.50
+		$10.00
 		</td>
 	</tr>
 	<tr>
@@ -123,7 +123,7 @@ Also, if you have a bulk of dry cleaning, [we can pick up and deliver]({{ site.b
 		
 		</td>
 		<td>
-		$3.39
+		$3.50
 		</td>
 	</tr>
 	<tr>
@@ -134,7 +134,7 @@ Also, if you have a bulk of dry cleaning, [we can pick up and deliver]({{ site.b
 		
 		</td>
 		<td>
-		$10.00
+		$14.00 - $18.00
 		</td>
 	</tr>
 	<tr>
@@ -145,9 +145,9 @@ Also, if you have a bulk of dry cleaning, [we can pick up and deliver]({{ site.b
 		
 		</td>
 		<td>
-		$13.00-$16.00
+		$15.00 - $20.00
 		</td>
 	</tr>
 </table>
 
-Over $40 total, 10% discount
+Over $50 total, 10% discount

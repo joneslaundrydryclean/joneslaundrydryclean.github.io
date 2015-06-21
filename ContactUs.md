@@ -8,9 +8,9 @@ permalink: /Contact/
 Contact Us
 ===
 
-<a href="tel:+14164665358">416 466 5358</a>
+<a href="tel:+14164665358">416 466 5358</a>; <a href="tel:+16476098398">647 609 8398</a>
 
-**[487 Jones Avenue](https://www.google.com/maps/place/487+Jones+Ave,+Toronto,+ON+M4J+3G7,+Canada/@43.67663,-79.340188,16z/data=!4m2!3m1!1s0x89d4cc811bc096e7:0xa76abb3a4782635a?hl=en-US)**, Toronto
+**[487 Jones Avenue](https://www.google.com/maps/place/487+Jones+Ave,+Toronto,+ON+M4J+3G7,+Canada/@43.67663,-79.340188,16z/data=!4m2!3m1!1s0x89d4cc811bc096e7:0xa76abb3a4782635a?hl=en-US)**, Danforth, Toronto
 
 Parking spaces available
 
